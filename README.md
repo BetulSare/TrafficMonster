@@ -2,8 +2,7 @@
       TRAFFIC MONSTER
 Bu projede, ters yöne giren bir arabayı kontrol ederek trafikteki diğer arabalara çarpmadan ilerlemeye çalıştığınız heyecan verici bir oyun geliştirdik. Amaç, mümkün olduğunca uzun süre hayatta kalmak ve çarpmalardan kaçınmaktır. Oyun, artan zorluk seviyeleri ve oyun kayıt özelliği sunmaktadır.
 
-      Oyun Gereksinimleri
-    Temel Fonksiyonlar
+TEMEL FONKSİYONLAR
 Oyun Alanı:
 -Oyun, 100 birim yüksekliğinde ve 40 birim genişliğinde bir yolda oynanır.
 -Trafik tek yönlü olup yukarıdan aşağıya akar, ancak oyuncunun arabası ters yönde hareket eder.
