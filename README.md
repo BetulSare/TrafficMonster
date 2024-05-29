@@ -1,33 +1,41 @@
 ![Ekran görüntüsü 2024-05-29 220846](https://github.com/BetulSare/TrafficMonster/assets/132604539/891ab84f-16af-4c1a-91ba-98b5a4b47b9c)
       TRAFFIC MONSTER
+      
 Bu projede, ters yöne giren bir arabayı kontrol ederek trafikteki diğer arabalara çarpmadan ilerlemeye çalıştığınız heyecan verici bir oyun geliştirdik. Amaç, mümkün olduğunca uzun süre hayatta kalmak ve çarpmalardan kaçınmaktır. Oyun, artan zorluk seviyeleri ve oyun kayıt özelliği sunmaktadır.
 
 TEMEL FONKSİYONLAR
+
 Oyun Alanı:
+
 -Oyun, 100 birim yüksekliğinde ve 40 birim genişliğinde bir yolda oynanır.
 -Trafik tek yönlü olup yukarıdan aşağıya akar, ancak oyuncunun arabası ters yönde hareket eder.
 ![Ekran görüntüsü 2024-05-29 220846](https://github.com/BetulSare/TrafficMonster/assets/132604539/de10c10b-0154-4c77-928e-7848b28a5231)
 
 Yol Tasarımı:
+
 -Yolun ortasında bir hat bulunur ve yolu ikiye böler (sol ve sağ şeritler).
 -Oyuncunun arabası yolun sonunda başlar ve sola veya sağa hareket edebilir.
 
 Araba Özellikleri:
+
 -Arabalar boyut (yükseklik ve genişlik), renk, desen ve hız açısından farklılık gösterir.
 -Her araba bağımsız olarak farklı hızlarda hareket eder.
 -Yeni arabalar belirli aralıklarla yola çıkar.
 
 Oyuncu Etkileşimi:
+
 -Oyuncu, yolun sonundaki arabayı kontrol eder.
 -Oyuncunun arabası başka bir arabaya çarptığında oyun biter.
 -Çarpmalardan kaçındıkça puan kazanılır.
 -Oyuncu oyunu kaydedebilir ve daha sonra yükleyebilir.
 
 Oyun İlerleyişi:
+
 -Oyun ilerledikçe arabalar daha hızlı hareket eder.
 -Yolun sonuna ulaşan arabalar ekrandan kaybolur.
 
 Ek Özellikler:
+
 -Farklı tuş kombinasyonları ile araba hareket ettirme.
 -Kazanılan puanları ve oyun talimatlarını görüntüleme.
 
