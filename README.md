@@ -1,7 +1,7 @@
 ![Ekran görüntüsü 2024-05-29 220846](https://github.com/BetulSare/TrafficMonster/assets/132604539/891ab84f-16af-4c1a-91ba-98b5a4b47b9c)
       TRAFFIC MONSTER
       
-Bu projede, ters yöne giren bir arabayı kontrol ederek trafikteki diğer arabalara çarpmadan ilerlemeye çalıştığınız heyecan verici bir oyun geliştirdik. Amaç, mümkün olduğunca uzun süre hayatta kalmak ve çarpmalardan kaçınmaktır. Oyun, artan zorluk seviyeleri ve oyun kayıt özelliği sunmaktadır.
+Bu projede, ters yöne giren bir arabayı kontrol ederek trafikteki diğer arabalara çarpmadan ilerlemeye çalıştığınız heyecan verici bir oyun geliştirdim. Amaç, mümkün olduğunca uzun süre hayatta kalmak ve çarpmalardan kaçınmaktır. Oyun, artan zorluk seviyeleri ve oyun kayıt özelliği sunmaktadır.
 
 TEMEL FONKSİYONLAR
 
