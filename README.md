@@ -60,12 +60,19 @@ PUANLAR
 
 
 
-    NASIL OYNANIR?
+ NASIL OYNANIR?
 
 -Oyunu Başlat: Programı çalıştırarak ana menüyü açın.
+
 -Arabayı Kontrol Et: Oyuncunun arabasını sola ve sağa hareket ettirmek için ok tuşlarını kullanın.
+
 -Çarpışmalardan Kaçının: Oyuncunun arabasını diğer arabalara çarpmadan yönetin.
+
 -Puan Kazan: Çarpmalardan kaçınarak puan toplayın.
+
 -Kaydet ve Yükle: Oyunu istediğiniz zaman kaydedip daha sonra tekrar yükleyin.
+
 -Seviyeleri Geç: Daha fazla puan topladıkça seviyeleri geçin.
+
 -Oyun Biter: Bir çarpışma olduğunda oyun sona erer
+
