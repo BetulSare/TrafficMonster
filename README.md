@@ -64,7 +64,7 @@ PUANLAR
 
 -Oyunu Başlat: Programı çalıştırarak ana menüyü açın.
 
--Arabayı Kontrol Et: Oyuncunun arabasını sola ve sağa hareket ettirmek için ok tuşlarını kullanın.
+-Arabayı Kontrol Et: Oyuncunun arabasını sola ve sağa hareket ettirmek için ok veya a d tuşlarını kullanın.
 
 -Çarpışmalardan Kaçının: Oyuncunun arabasını diğer arabalara çarpmadan yönetin.
 
